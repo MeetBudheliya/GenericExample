@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F006AA23-E1F5-4F73-8ADD-E54A57A13485}|Default">
+  <MonoDevelop.Ide.ItemProperties.GenericExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericExample/GenericRestTest.cs">
+    <Files>
+      <File FileName="GenericExample/Program.cs" Line="41" Column="34" />
+      <File FileName="GenericExample/GenericFirstClass.cs" Line="9" Column="18" />
+      <File FileName="GenericExample/EmptyClass.cs" Line="9" Column="10" />
+      <File FileName="GenericExample/GenericTestThree.cs" Line="6" Column="9" />
+      <File FileName="GenericExample/Customer.cs" Line="8" Column="76" />
+      <File FileName="GenericExample/Student.cs" Line="8" Column="75" />
+      <File FileName="GenericExample/GenericRestTest.cs" Line="4" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GenericExample" expanded="True">
+            <Node name="GenericExample" expanded="True">
+              <Node name="GenericRestTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

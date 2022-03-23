@@ -1,0 +1,15 @@
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/bin/Debug/net5.0/GenericExample.deps.json
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/bin/Debug/net5.0/GenericExample.runtimeconfig.json
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/bin/Debug/net5.0/GenericExample.runtimeconfig.dev.json
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/bin/Debug/net5.0/GenericExample.dll
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/bin/Debug/net5.0/ref/GenericExample.dll
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/bin/Debug/net5.0/GenericExample.pdb
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/obj/Debug/net5.0/GenericExample.csproj.AssemblyReference.cache
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/obj/Debug/net5.0/GenericExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/obj/Debug/net5.0/GenericExample.AssemblyInfoInputs.cache
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/obj/Debug/net5.0/GenericExample.AssemblyInfo.cs
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/obj/Debug/net5.0/GenericExample.csproj.CoreCompileInputs.cache
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/obj/Debug/net5.0/GenericExample.dll
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/obj/Debug/net5.0/ref/GenericExample.dll
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/obj/Debug/net5.0/GenericExample.pdb
+/Users/meet/Documents/DotNet_Projects/GenericExample/GenericExample/obj/Debug/net5.0/GenericExample.genruntimeconfig.cache
